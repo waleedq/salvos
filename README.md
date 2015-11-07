@@ -1,2 +1,2 @@
 # salvos
-Stepper motors bases laser galvo scanners 
+Stepper motors based laser galvo scanners 
