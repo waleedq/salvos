@@ -11,4 +11,5 @@ But in lower speeds this would do the trick for SLA printers as the resin needs 
 
 Project is still in first phases and need more development, feel free to edit, improve and contribute back to this project.
 
-
+A video to show the galvos in action:
+https://www.youtube.com/watch?v=6L_4MTKywEk
